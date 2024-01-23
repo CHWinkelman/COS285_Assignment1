@@ -1,0 +1,7 @@
+.DS_store
+.pdf-view-restore
+.project
+.settings/
+.classpath
+resources/accidents.csv
+doc/Assignment1.pdf
