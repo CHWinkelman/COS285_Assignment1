@@ -5,3 +5,6 @@
 .classpath
 resources/accidents.csv
 doc/Assignment1.pdf
+/bin/
+/.DS_Store
+.#*
